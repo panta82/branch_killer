@@ -1,0 +1,5 @@
+package: branch_killer
+import:
+- package: github.com/nsf/termbox-go
+  subpackages:
+  - github.com\nsf\termbox-go
